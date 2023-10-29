@@ -5,9 +5,9 @@ This is our Tensorflow implementation for the paper:
 >Tianyu Zhu, Yansong Shi, Yuan Zhang, Yihong Wu, Fengran Mo, and Jian-Yun Nie. "Collaboration and Transition: Distilling Item Transitions into Multi-Query Self-Attention for Sequential Recommendation." WSDM 2024.
 
 ## Introduction
-Graph-based Embedding Smoothing (GES) is a general framework for improving sequential recommendation methods with sequential and semantic item graphs.
+MQSA-TED is a framework that captures collaborative and transitional signals for sequential recommendation.
 
-![](https://github.com/zhuty16/MQSA-TED/blob/master/framework.jpg)
+![](https://github.com/zhuty16/MQSA-TED/blob/main/framework.pdf)
 
 ## Citation
 
@@ -17,9 +17,6 @@ The code has been tested running under Python 3.6. The required packages are as 
 * numpy == 1.23.0+
 * scipy == 1.8.0+
 * pandas == 1.5.0+
-
-## Dataset
-* Download: [Google Drive](https://drive.google.com/drive/folders/1ny_jqRE_NwK3SbnxF4W3Ql_SiItKLKlC?usp=sharing)
 
 ## Example to Run the Codes
 ```
