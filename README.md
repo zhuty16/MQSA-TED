@@ -7,12 +7,12 @@ This is our Tensorflow implementation for the paper:
 ## Introduction
 MQSA-TED is a framework that captures collaborative and transitional signals for sequential recommendation.
 
-![](https://github.com/zhuty16/MQSA-TED/blob/main/framework.pdf)
+![](https://github.com/zhuty16/MQSA-TED/blob/main/framework.jpg)
 
 ## Citation
 
 ## Environment Requirement
-The code has been tested running under Python 3.6. The required packages are as follows:
+The code has been tested running under Python 3.8. The required packages are as follows:
 * tensorflow == 2.8.0+
 * numpy == 1.23.0+
 * scipy == 1.8.0+
